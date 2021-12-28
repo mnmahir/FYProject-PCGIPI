@@ -22,9 +22,9 @@ Sourcecode was developed and tested with:
 2. Load **System_web_app_(Backend).ipynb** python notebook into Google Colab.
 3. In Colab, goto __#Load Model__ section. Edit the _model_directory_ to the directory of the the model in Google Drive (/content/gdrive/MyDrive/...). Rename the _model_name_ to the file name of your model.
 4. In Anvil, goto setting(gear icon) > Uplink. Copy the uplink key.
-5. In Colab, goto __#Main__ section. Make sure the string of _uplink_key_ is similar to the one in Anvil. If not paste the new key.
+5. In Colab, goto __Main__ section. Make sure the string of _uplink_key_ is similar to the one in Anvil. If not paste the new key.
 6. In Anvil, click run.
-7. In Colab, __#Library__, __#Load Model__ and __#Main__ sections. The __#Main__ section will run forever waiting for interaction in Anvil.
+7. In Colab, run the __Library__, __Load Model__ and __Main__ sections. The __Main__ section will run forever waiting for interaction in Anvil.
 8. DONE!
 
 [Anvil]: https://anvil.works/build#clone:FBM5VHPXV3N7HNS4=RS2U5JK5G5K7UCQUGXPI46PD
